@@ -1,6 +1,12 @@
-title: Minimal theme
+title: <p align= "center"> Nizam Sharif </p>
 logo: /assets/img/logo.png
+
 description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+  <p align= "center">
+  <a href= "https://github.com/nizamsharif">GitHub</a>
+  I'm working on Data Science, Machine Learning & NLP related problems.
+  </p>
+
+
+
 theme: jekyll-theme-minimal
